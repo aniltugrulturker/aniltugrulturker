@@ -1,7 +1,11 @@
-Merhaba
-Frontend Developer Adayıyım
+Frontend Developer adayıyım. 
 
-Temel olarak HTML, CSS, JavaScript, Git, Linux, TailwindCSS, Bootstrap bilgim var.
+HTML, CSS, JavaScript, Git, Linux, Bootstrap, TailwindCSS temel seviyede bilgim var. 
 
-Kendi çapımda örnek ufak projeler kodluyorum. Linux tarafında kendime uygun window manager, dock, terminal, açık kaynak uygulamaları vb. stil olarak özelleştirdim
-Şirket portföy, turbo servis, çicek e-ticaret ve admin dashboard projelerinde frontend olarak görev aldım
+JavaScript frameworklerinden React.JS, Vue.JS, Next.JS ve Nuxt.JS ile temel işlemler yaptım. 
+
+Web geliştirme eğitim ortamında örnek projeleri kendi bilgilerim üzerinden kodlayarak kendimi geliştiriyorum. 
+
+Proje bazında şirket portföy, turbo servis, çiçek e-ticaret ve admin dashboard' da frontend developer olarak görev aldım. 
+
+Linux tarafında belli bir süre window manager kullandım, yanı sıra window manager, dock, terminal, bildirim, açık kaynak uygulamarı vb. stil olarak kendime uygun şekilde işlemler yaptım.
