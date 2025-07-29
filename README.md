@@ -2,7 +2,7 @@ Frontend Developer adayıyım.
 
 HTML, CSS, JavaScript, Git, Linux, Bootstrap, TailwindCSS temel seviyede bilgim var. 
 
-JavaScript frameworklerinden React.JS, Vue.JS, Next.JS ve Nuxt.JS ile temel işlemler yaptım. 
+JavaScript frameworklerinden React, Vue, Next ve Nuxt ile temel işlemler yaptım. 
 
 Web geliştirme eğitim ortamında örnek projeleri kendi bilgilerim üzerinden kodlayarak kendimi geliştiriyorum. 
 
